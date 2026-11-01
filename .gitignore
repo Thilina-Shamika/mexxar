@@ -1,0 +1,11 @@
+.DS_Store
+.thumbnail
+.image-slots.state.json
+
+# Working files: internal docs, screenshots and earlier design versions
+uploads/
+Mexxar Features.html
+Mexxar Features.dc.html
+Mexxar Features v[2-7]*
+Mexxar Features v8.html
+.claude/
